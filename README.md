@@ -1,7 +1,7 @@
 # Bestie AI
-<div style="text-align:center">
-  <img src="https://media.giphy.com/media/H2GX5Ik1ILy5q/giphy.gif" alt="Setup">
-</div>
+
+  [Feed - LinkedIn - Awesome Screenshot.webm](https://user-images.githubusercontent.com/87796038/232122785-8e439722-321e-480d-8e69-4eb993c1859b.webm)
+
 Bestie AI is a browser extension that allows users to extract text from various platforms such as LinkedIn or Twitter just by asking Bestie. It is built using React, JavaScript, Webpack, and ChatGPT API.
 
 ## How it works
